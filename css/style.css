@@ -1,0 +1,92 @@
+body{
+    background-image: url(../img/fondoPantalla.jpg);
+    background-size: 100%;
+}
+.boton{
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 15px;
+    line-height: 84.69%
+}
+.tituloPrincipal{
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+    color: orangered;
+    font-size: 300%;
+}
+.contenedor1{
+    height: 100px;
+}
+
+.subtitulos{
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    color: orangered;
+}
+.subtitulosContenedor{
+    background-color: white;
+    font-family: 'Montserrat', sans-serif;
+    font-style: italic;
+    color: ;
+    font-size: 90%;
+
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}
+.subtitulosContenedor1{
+    background-color: white;
+    height: 90px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    color: ;
+    font-size: 90%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    padding-bottom: 1%;
+
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+}
+.subtitulosContenedor2{
+    background-color: white;
+    background-size: 150px;
+    height: 90px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 100%;
+    font-size: 18px;
+    color: white;
+    font-size: 90%;
+    left: 500px;
+    text-align: justify;
+
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: 1%;
+    background: orangered;
+    width: 675px;
+    height: 400px;
+    
+}
+.footer{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 100;
+    line-height: 2.80em;
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+    background-color: orangered;
+    width: 1440;
+    height: 50px;
+    left: 60px;
+    top: 188px;
+}
+.centrado {
+    padding: 0px 1px 0px 1px;
+    weight: 200%;
+    left: 60px;
+    }
